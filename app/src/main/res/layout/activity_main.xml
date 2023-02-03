@@ -14,7 +14,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/randy_image" />
+        app:srcCompat="@drawable/turtle_image" />
 
     <TextView
         android:id="@+id/profile_coment_text"
@@ -24,7 +24,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="16dp"
-        android:text="androidメンターのランディーだよ"
+        android:text="かめさんって呼ばれてるよ\nKotlinとJSをぼちぼちと触ってる\nHAREの服とファミマがすき"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
